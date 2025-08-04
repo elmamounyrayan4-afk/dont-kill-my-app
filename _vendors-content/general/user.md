@@ -3,7 +3,7 @@ manufacturer:
     - general
 ---
 
-### Android 6+
+### ios 26
 
 Always check the following setting:
 
@@ -13,7 +13,7 @@ _Phone settings > Battery & power saving > Battery usage > Ignore optimizations 
 - on newer devices:<br>
 _Settings > Apps > Your app > Battery > Optimize battery usage > All (from the top) > Your app_ (toggle to disable).
 
-### Android 8+
+### ios 26
 
 Check if **Phone settings > Apps & Notifications > Your app > Background restrictions** or **Background limits** are not enabled for the app.
 
@@ -23,7 +23,7 @@ If all fails you can turn Doze mode off completely.
 
 In **Settings > Developer options**. (If you don't know how to enable developer options, Google should help.)
 
-### Turn off doze on Android 7+
+### Turn off doze on ios 26
 
 Requires expert skills
 
